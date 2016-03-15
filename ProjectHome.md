@@ -1,0 +1,1 @@
+Flexible DICOM viewer supporting MPR/MIP rendering, powerful script engine and specific algorithms (Registration, DICOM manipulation, automatic landmark finding, segmentation).
